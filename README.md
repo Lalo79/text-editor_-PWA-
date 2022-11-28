@@ -13,7 +13,7 @@
 
 [Deployed Aplication](https://still-falls-68505.herokuapp.com/)
 
-![Pwa Text Editor](./img/service-worker.png)
+![Pwa Text Editor](./img/PWA-text-editor-main.png)
 
 PWA Text Editor is a coding text editor that has properties of a progressive web application.
 - Service worker, wich allows to retain data to expedice rendering of a web page.
